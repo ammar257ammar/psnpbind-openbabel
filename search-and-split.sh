@@ -8,6 +8,7 @@ for f in *; do
 
 	mkdir results
 	mkdir splitted
+	mkdir splitted-smi
 	mkdir logs
 	
 	for p in *.sdf; do
@@ -19,7 +20,7 @@ for f in *; do
 		babel ${p} results/${mol}_similar.sdf -ofpt > logs/${mol}.log
 
 		obabel results/${mol}_similar.sdf -omol2 -O splitted/${mol}_similar_*.mol2 --split
-
+		obabel results/${mol}_similar.sdf -osmi -O splitted-smi/${mol}_similar_*.smi --split
 	done
 
 	cd ..

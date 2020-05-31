@@ -6,7 +6,7 @@ https://github.com/ammar257ammar/pocket-snps-effect-binding-affinity
 
 Please prepare and build the docker using the following instruction and refer back to the previous link for proper usage in the context of PSBAP project.
 
-### First, clone this repository, then follow next! 
+### First, clone this repository, go to its directory, then follow next! 
 
 ### Build the Docker image
 

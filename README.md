@@ -1,16 +1,18 @@
-# OpenBabel Docker
+# PSnpBind OpenBabel Docker
 
-This repository is part of the "Pocket SNPs effect on protein-ligand Binding Affinity Prediction (PSBAP)" project and it is a submodule of the main repository 
+This repository is part of the "Pocket SNPs Effect On Protein-Ligand Binding Affinity Project (PSnpBind)"  and it is a submodule of the main repository 
 
 https://github.com/ammar257ammar/pocket-snps-effect-binding-affinity
 
-Please prepare and build the docker using the following instruction and refer back to the previous link for proper usage in the context of PSBAP project.
+Please prepare and build the docker using the following instructions and refer back to the previous link for proper usage in the context of PSnpBind project.
 
-### First, clone this repository, go to its directory, then follow next! 
+### First, clone this repository, and "cd" into its directory.
 
-### Build the Docker image
+### Second, build the Docker image
 
-docker build -t psbap-openbabel .
+```bash
+docker build -t psnpbind-openbabel .
+```
 
 #### Now you are ready! 
 

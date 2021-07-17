@@ -1,6 +1,6 @@
 # PSnpBind OpenBabel Docker
 
-![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/psnpbind-openbabel) ![GitHub](https://img.shields.io/github/license/ammar257ammar/psnpbind-openbabel) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ammar257ammar/psnpbind-openbabel) [![Dockerhub](https://img.shields.io/badge/Dockerhub-aammar%2Fpsnpbind--openbabel-green)](https://hub.docker.com/r/aammar/psnpbind-openbabel) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/aammar/psnpbind-openbabel)
+![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/psnpbind-openbabel) ![GitHub](https://img.shields.io/github/license/ammar257ammar/psnpbind-openbabel) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ammar257ammar/psnpbind-openbabel) [![Dockerhub](https://img.shields.io/badge/Dockerhub-aammar%2Fpsnpbind--openbabel-green)](https://hub.docker.com/r/aammar/psnpbind-openbabel) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/aammar/psnpbind-openbabel) [![DOI](https://zenodo.org/badge/266906942.svg)](https://zenodo.org/badge/latestdoi/266906942)
 
 This repository prepares OpenBabel (for ligand preparation and energy minimization) to be executed against multiple ligand structures in parallel as part of constructing the PSnpBind database.
 
